@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Link to [App}(https://reduxcrud.cbaez1223.now.sh/)
+Link to [App](https://reduxcrud.cbaez1223.now.sh/)
 
 ## Available Scripts
 
